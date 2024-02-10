@@ -19,6 +19,6 @@ This lightweight application is built using React, making it easy to understand 
 * Start the development server with npm start.
 * Begin managing your tasks effortlessly!
 
-# Contributing
+## Contributing
 Contributions are welcome! If you have any ideas for improvements or feature requests, feel free to submit a pull request.
 
